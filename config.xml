@@ -2,7 +2,7 @@
 
  <widget xmlns = "http://www.w3.org/ns/widgets"
    xmlns:gap = "http://phonegap.com/ns/1.0" 
-   id = "com.phonegap.ImageEdit" 
+   id = "com.phonegap.Signature" 
    versionCode = "10" 
    version = "2.0.0" >
    <gap:splash src="images/splash.png" gap:platform="ios" width="1024" height="768" />
